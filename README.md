@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Planning System
 
 A Node.js application that serves as an event planning system.
@@ -35,3 +36,7 @@ A Node.js application that serves as an event planning system.
 - GET /api/events/category/:categoryId - Get events by category
 - PUT /api/events/:id - Update an event
 - DELETE /api/events/:id - Delete an event
+=======
+# ex
+>>>>>>> origin/main
+
